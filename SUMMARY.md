@@ -4,13 +4,16 @@
 
 ## Linux
 
-* [ディストリビューション](<README (1).md>)
+* [ディストリビューション](linux/LinuxBasic.md)
 * [コマンド一覧](linux/komando.md)
 
 ## 各種フレームワーク
 
-* [ASP.NET](drogonfurmuwku/shiteiru.md)
+* [ASP.NET](framework/aspdotnet.md)
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](network/page-1.md)
+
+## SDKS
+* [DOTNET](sdk/dotnet.md)
