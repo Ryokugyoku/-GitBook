@@ -17,3 +17,9 @@
 
 ## SDKS
 * [DOTNET](sdk/dotnet.md)
+
+## AI
+* [AI](AI/OpenAI.md)
+
+## gitHub使い方
+* [GitHub](GitHub.md)
