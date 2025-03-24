@@ -29,4 +29,5 @@
 
 ***
 
-* [GitHub Project使い方](github-projecti.md)
+* [GitHub Project](github-project.md)
+* [GitHub Desktop](github-desktop.md)
