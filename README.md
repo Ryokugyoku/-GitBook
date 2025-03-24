@@ -12,7 +12,6 @@ description: 勉強する内容
 
 ### ネットワーク
 
-###　SDKS
+#### SDKS
 
 ### AI
-
