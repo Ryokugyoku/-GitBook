@@ -1,5 +1,6 @@
 ---
 description: GitHubDesktopの基本的な使い方
+icon: github
 ---
 
 # GitHub Desktop
