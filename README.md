@@ -6,15 +6,15 @@ description: 勉強する内容
 
 ## 勉強内容
 
-### [Linux](./#linux)
+### [Linux](linux/LinuxBasic.md)
 
-### [各種フレームワーク](./#furmuwku)
+### [各種フレームワーク](framework/dotnet.md#asp.net)
 
-### [ネットワーク](./#nettowku)
+### [ネットワーク](network/page-1.md)
 
-#### [SDKS](./#sdks)
+#### [SDKS](sdk/dotnet.md#gai-yao)
 
-### [AI](./#ai)
+### [AI](AI/OpenAI.md)
 
-#### [GITHUBの使い方](./#githubnoi)
+#### [GITHUBの使い方](githubi/github.md#github-ji-ben-zhi-shi)
 
