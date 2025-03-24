@@ -3,7 +3,7 @@ description: GitHubProjectの基本的な利用方法を記載する
 icon: atom-simple
 ---
 
-# GitHub Project使い方
+# GitHub Project
 
 ## GitHub Projectの作成方法
 
@@ -37,7 +37,8 @@ icon: atom-simple
 7.  マイルストーンの設定\
     Assigneeボタンの近くにMilestoneというボタンがあり、そちらを押下する。
 
-    対象リポジトリにマイルストーンが設定されている場合それが表示される
+    対象リポジトリにマイルストーンが設定されている場合それが表示される\
+    [#mairusutnno](githubi/github.md#mairusutnno "mention")
 8. Createボタンの押下\
    ![](<.gitbook/assets/スクリーンショット 2025-03-24 21.56.11.png>)
 
