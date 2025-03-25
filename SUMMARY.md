@@ -31,3 +31,4 @@
 
 * [GitHub Project](github-project.md)
 * [GitHub Desktop](github-desktop.md)
+* [GitHub Merge Scenario](github-merge-scenario.md)
