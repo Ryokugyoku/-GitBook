@@ -5,6 +5,26 @@ icon: whmcs
 
 # GitHub Merge Scenario
 
+## マージ基礎知識
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request" %}
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-commit" %}
+マージの概念について
+{% endembed %}
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=cli&platform=windows" %}
+プルリクエストの作成方法
+{% endembed %}
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews" %}
+プルリクエストレビュー方法
+{% endembed %}
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews" %}
+プルリクエストの却下
+{% endembed %}
+
 ## マージ理想
 
 元となる親ブランチに対して変更が発生した場合、都度変更をブランチに適用するようにする
@@ -86,4 +106,14 @@ icon: whmcs
 #### ブランチB所有者
 
 1. ノーマルシナリオ同様の手順を行い変更を取り入れる
+
+
+
+## マージする際に子ブランチのコミットログをまとめたい時
+
+スカッシュマージ
+
+{% embed url="https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges#squash-and-merge-your-commits" %}
+
+
 
